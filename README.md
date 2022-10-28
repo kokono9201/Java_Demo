@@ -5,7 +5,7 @@ These are some simple demoes for java learning
 
 
 ## OrderSystem<br>
-A simple order system as Hello, and get familiar with git and using IDEA<br>
+A simple order system as Hello, and get familiar with git and using IDEA.
 Entry class: DishApp
 
 ## GobangChess<br>
